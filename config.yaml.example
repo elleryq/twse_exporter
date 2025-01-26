@@ -1,0 +1,6 @@
+address: 127.0.0.1
+port: 8080
+exChList:
+  - tse_0050.tw
+  - tse_0056.tw
+  - tse_2330.tw
